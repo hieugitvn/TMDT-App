@@ -1,0 +1,4 @@
+1.Tạo backend:
+-terminal:npm init,npm i cors dotenv express jsonwebtoken mongoose multer nodemon validator cloudinary bcrypt
+-https://www.mongodb.com/ đăng ký,tạo project và lấy key .env
+-https://cloudinary.com/ đăng ký lấy api key .env
